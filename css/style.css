@@ -1,4 +1,45 @@
-/* Created by: Mr. Coxall
-* Created on: Sep 2020
-* This file contains the CSS for index.html
+/* Created by: Niko
+* Created on: april 2024
+* This file contains the CSS for index.php
 */
+
+body {
+  background-color: #fbc6e2;
+  font-size: 10pt;
+  font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+  color: black;
+  line-height: 14pt;
+  padding-left: 5pt;
+  padding-right: 5pt;
+  padding-top: 5pt;
+  text-align: center;
+}
+
+h1 {
+  font: 20pt Times New Roman;
+  font-weight: bold;
+  line-height: 20pt;
+  color: black;
+  padding: 20px;
+  margin-left: 600px;
+  margin-right: 600px;
+  background-color: #d973a4;
+}
+
+h3 {
+  font: 12pt Verdana, Geneva, Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  line-height: 16pt;
+  color: #3a2c34;
+}
+
+iframe {
+  font-weight: bold;
+  color: #000000;
+  margin: 5px;
+  background-color: #c5a9f9;
+  margin-left: 700px;
+  margin-right: 700px;
+  text-align: center;
+}
+
